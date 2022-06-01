@@ -1,5 +1,6 @@
-Favorite film -"Others",
-Favorite serial - "Game of thrones",
-Favorite meal - pizza,
-Favorite season - summer,
-Ciuntry to visit - Norway
+Last name: Popova,
+First name: Nataliia,
+Sirname: Ivanivna,
+Age: 30,
+Pets Number: 0,
+Desired salary: 20000
