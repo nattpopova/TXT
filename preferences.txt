@@ -1,1 +1,5 @@
-Любимый фильм -"Другие", любимый сериал - "Игра престолов",любимая еда - пицца, любимое время года -лето, страна - Норвегия
+Favorite film -"Others",
+Favorite serial - "Game of thrones",
+Favorite meal - pizza,
+Favorite season - summer,
+Ciuntry to visit - Norway
